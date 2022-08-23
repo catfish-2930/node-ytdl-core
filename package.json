@@ -52,6 +52,7 @@
     "nock": "^13.0.4",
     "nyc": "^15.0.0",
     "sinon": "^9.0.0",
+    "stream-equal": "~1.1.0",
     "typescript": "^3.9.7"
   },
   "engines": {
